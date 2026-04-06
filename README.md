@@ -1,7 +1,12 @@
-<<<<<<< HEAD
+
 # 🛰️ AeroIntel: Real-Time Aviation Intelligence & Anomaly Surveillance
 
 **AeroIntel** is a professional-grade aviation monitoring and intelligence platform designed to track, analyze, and visualize global aircraft traffic in real-time. By leveraging high-fidelity ADS-B (Automatic Dependent Surveillance–Broadcast) state vectors from the **OpenSky Network**, the platform detects navigational anomalies, emergency scenarios, and performance envelope violations.
+
+---
+
+<img src="poc.png">
+
 
 ---
 
@@ -409,4 +414,4 @@ Learning how **ADS-B intelligence systems** are built from raw telemetry.
 -   Sector-based polling
 -   WebSocket streaming only
 -   Risk scoring model
->>>>>>> 3376655900d6712c2d08e3ab7b861b00651d0b23
+
